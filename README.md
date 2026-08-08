@@ -9,12 +9,12 @@ Source: Spotify Support — [Understanding your data](https://support.spotify.co
 ## At a glance
 
 | Data category | What it contains | 
-|---|---|---|
+|---|---|
 | **Playlist** | Playlists, songs, artists, albums/episodes, descriptions, followers | 
-| **Your Library** | Saved songs, episodes, shows, artists, albums and Spotify URIs | Snapshot at request |
+| **Your Library** | Saved songs, episodes, shows, artists, albums and Spotify URIs | 
 | **Inferences** | Market segments inferred from interests/preferences | Current data |
-| **Taste Profiles** | Personalized taste summaries, related Spotify URIs, notes, timestamps | Generated profile data |
-| **Wrapped Data** | Annual listening stats, top artists/tracks/genres/podcasts and Wrapped stories | Latest Wrapped year |
+| **Taste Profiles** | Personalized taste summaries, related Spotify URIs, notes, timestamps |
+| **Wrapped Data** | Annual listening stats, top artists/tracks/genres/podcasts and Wrapped stories |
 | **Streaming History** | Stream end time, creator, title and `msPlayed` | Past year |
 | **Extended Streaming History** | Detailed listening activity plus playback, device, location and technical fields |
 ## Details
