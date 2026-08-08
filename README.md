@@ -1,18 +1,23 @@
-# Spotify-Explorer
-Explore listening music patterns, profiling and visualizing requested patterns to project the visual out of our end goal.
-Data type
+ Spotify Data Reference
 
-What's included
-# Spotify Data Reference
+A compact summary of Spotify's official **Understanding your data** documentation.
 
-This document summarizes the Spotify data categories requested from Spotify's
-official **Understanding your data** documentation.
+> The exact fields available depend on the data package and what applies to your account.
 
 Source: Spotify Support — [Understanding your data](https://support.spotify.com/nl-en/article/understanding-your-data/)
 
-> The exact fields available depend on the data package and what applies to your
-> account.
+## At a glance
 
+| Data category | What it contains | 
+|---|---|---|
+| **Playlist** | Playlists, songs, artists, albums/episodes, descriptions, followers | 
+| **Your Library** | Saved songs, episodes, shows, artists, albums and Spotify URIs | Snapshot at request |
+| **Inferences** | Market segments inferred from interests/preferences | Current data |
+| **Taste Profiles** | Personalized taste summaries, related Spotify URIs, notes, timestamps | Generated profile data |
+| **Wrapped Data** | Annual listening stats, top artists/tracks/genres/podcasts and Wrapped stories | Latest Wrapped year |
+| **Streaming History** | Stream end time, creator, title and `msPlayed` | Past year |
+| **Extended Streaming History** | Detailed listening activity plus playback, device, location and technical fields |
+## Details
 ---
 
 ## 1. Playlist
